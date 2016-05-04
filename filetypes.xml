@@ -4,6 +4,7 @@
       <mapping pattern="config properties" type="PLAIN_TEXT" />
       <mapping pattern="testdata" type="PLAIN_TEXT" />
       <mapping pattern="TestData" type="PLAIN_TEXT" />
+      <mapping pattern="crossbrowsertesting" type="XML" />
     </extensionMap>
   </component>
 </application>
