@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="kkk" type="CLASS" />
+      <mapping pattern="sudhhd" type="JAVA" />
+      <mapping pattern="gggggg" type="Native" />
       <mapping pattern="config properties" type="PLAIN_TEXT" />
       <mapping pattern="Screenshotfile" type="PLAIN_TEXT" />
       <mapping pattern="Screenshot" type="PLAIN_TEXT" />
