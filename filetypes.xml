@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="ghghg" type="CLASS" />
       <mapping pattern="kkk" type="CLASS" />
       <mapping pattern="sudhhd" type="JAVA" />
       <mapping pattern="gggggg" type="Native" />
-      <mapping pattern="config properties" type="PLAIN_TEXT" />
-      <mapping pattern="Screenshotfile" type="PLAIN_TEXT" />
-      <mapping pattern="Screenshot" type="PLAIN_TEXT" />
       <mapping pattern="testdata" type="PLAIN_TEXT" />
+      <mapping pattern="config properties" type="PLAIN_TEXT" />
+      <mapping pattern="Screenshot" type="PLAIN_TEXT" />
       <mapping pattern="TestData" type="PLAIN_TEXT" />
+      <mapping pattern="Screenshotfile" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping pattern="crossbrowsertesting" type="XML" />
     </extensionMap>
