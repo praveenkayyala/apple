@@ -11,6 +11,7 @@
       <mapping pattern="TestData" type="PLAIN_TEXT" />
       <mapping pattern="Register.feature" type="PLAIN_TEXT" />
       <mapping pattern="Screenshotfile" type="PLAIN_TEXT" />
+      <mapping pattern="Resources" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="featue" type="PLAIN_TEXT" />
       <mapping ext="praperty" type="PLAIN_TEXT" />
