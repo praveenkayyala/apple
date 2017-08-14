@@ -7,7 +7,7 @@
     <drivers />
     <databases />
     <queries projectClassLoader="false" save="false" stopOnError="false" />
-    <results primaryKeyCols="true" primaryKeyColor="-6908186" foreignKeyColor="-6887786" loadLOBs="false" saveTableConfig="false" nullString="" useAlternateRowColors="false" alternateRowBackground="-1310741" alternateRowForeground="-16777216" showGrid="false">
+    <results primaryKeyCols="true" primaryKeyColor="-6908186" foreignKeyColor="-1646891" loadLOBs="false" saveTableConfig="true" nullString="" useAlternateRowColors="true" alternateRowBackground="-1310741" alternateRowForeground="-16777216" showGrid="false">
       <defaultFormat class="java.util.Date" format="Default" />
       <defaultFormat class="java.lang.Boolean" format="Default" />
       <defaultFormat class="java.lang.String" format="Default" />
