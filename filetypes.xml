@@ -8,6 +8,7 @@
       <mapping pattern="testdata" type="PLAIN_TEXT" />
       <mapping pattern="config properties" type="PLAIN_TEXT" />
       <mapping pattern="Screenshot" type="PLAIN_TEXT" />
+      <mapping pattern="Screenshots" type="PLAIN_TEXT" />
       <mapping pattern="TestData" type="PLAIN_TEXT" />
       <mapping pattern="Register.feature" type="PLAIN_TEXT" />
       <mapping pattern="Screenshotfile" type="PLAIN_TEXT" />
