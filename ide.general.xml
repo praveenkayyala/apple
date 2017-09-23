@@ -3,5 +3,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.tooltip.initialDelay" value="1194" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+    <entry key="debugger.showTypes" value="false" />
   </component>
 </application>

@@ -18,6 +18,7 @@
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="featue" type="PLAIN_TEXT" />
       <mapping ext="praperty" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="future" type="PLAIN_TEXT" />
       <mapping pattern="CrossbTestNg" type="XML" />
       <mapping pattern="crossbrowsertesting" type="XML" />
