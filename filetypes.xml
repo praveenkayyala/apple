@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ghghg" type="CLASS" />
       <mapping pattern="kkk" type="CLASS" />
+      <mapping ext="rar" type="Eclipse" />
       <mapping pattern="sudhhd" type="JAVA" />
       <mapping pattern="gggggg" type="Native" />
       <mapping pattern="testdata" type="PLAIN_TEXT" />
